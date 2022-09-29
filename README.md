@@ -13,7 +13,7 @@
  ==========
  >[練習一](https://github.com/yulun910207/PL/blob/main/.ipynb_checkpoints/Untitled-checkpoint.ipynb)
  
- >[dictionary}(https://github.com/yulun910207/PL/blob/main/.ipynb_checkpoints/dictionary-checkpoint.ipynb)
+ >[dictionary](https://github.com/yulun910207/PL/blob/main/.ipynb_checkpoints/dictionary-checkpoint.ipynb)
  
  作業連結區
  ==========
