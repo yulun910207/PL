@@ -1,0 +1,61 @@
+{
+  "球員列表": [
+    {
+      "球員名稱": "Chef Curry",
+      "球員位置": "pg",
+      "過去10年獲得冠軍數量": "4",
+      "finals mvp": "1",
+      "player ranking": "No.2"
+    },
+    {
+      "球員名稱": "Leflop  James",
+      "球員位置": "sf",
+      "過去10年獲得冠軍數量": "4",
+      "finals mvp": "4",
+      "player ranking": "No.1"
+    },
+    {
+      "球員名稱": "The Claw(Kawhi)",
+      "球員位置": "sf",
+      "過去10年獲得冠軍數量": "2",
+      "finals mvp": "2",
+      "player ranking": "No.4"
+    },
+    {
+      "球員名稱": "Slim Reaper(KD)",
+      "球員位置": "sf",
+      "過去10年獲得冠軍數量": "2",
+      "finals mvp": "2",
+      "player ranking": "No.3"
+    },
+    {
+      "球員名稱": "The Greek Freak(Giannis)",
+      "球員位置": "pf",
+      "過去10年獲得冠軍數量": "1",
+      "finals mvp": "1",
+      "player ranking": "No.5"
+    }
+  ],
+  "球員進入冠軍賽次數": [
+    {
+      "球員名稱": "Chef Curry",
+      "次數": "6"
+    },
+    {
+      "球員名稱": "Leflop James",
+      "次數": "8"
+    },
+    {
+      "球員名稱": "The Claw(Kawhi)",
+      "次數": "3"
+    },
+    {
+      "球員名稱": "Slim Reaper(KD)",
+      "次數": "4"
+    },
+    {
+      "球員名稱": "The Greek Freak(Giannis)",
+      "次數": "1"
+    }
+  ]
+}
