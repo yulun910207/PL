@@ -21,7 +21,7 @@
  
  >[HW2(資料是自己做的)](https://github.com/yulun910207/PL/blob/main/HW2.ipynb)
  
- >[HW3](https://github.com/yulun910207/PL/blob/main/HW3.ipynb)
+ >[HW3](https://github.com/yulun910207/PL/blob/main/HW3.ipynb)[可以用json editor檢視我的檔案]
  
  專題連結區
  ==========
