@@ -21,7 +21,12 @@
  
  >[HW2(資料是自己做的)](https://github.com/yulun910207/PL/blob/main/HW2.ipynb)
  
- >[HW3](https://github.com/yulun910207/PL/blob/main/HW3.ipynb)
+ >[HW3](https://github.com/yulun910207/PL/blob/main/HW3.ipynb)(json檔不是亂碼)
  
- 專題連結區
+ >[HW4](https://medium.com/@analysis910207/python%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98%E5%88%86%E6%9E%902022%E5%8F%B0%E7%81%A3%E5%B0%B1%E6%A5%AD%E9%80%9A%E8%81%B7%E7%BC%BA%E6%B8%85%E5%96%AE%E4%B8%AD%E7%9A%84%E9%97%9C%E9%8D%B5%E8%A9%9E%E6%8F%90%E5%8F%96-8970ea1d809)
+
+>[HW5](https://medium.com/@analysis910207/python%E6%96%87%E6%9C%AC%E5%85%B1%E7%8F%BE%E7%B6%B2%E8%B7%AF%E5%88%86%E6%9E%902022%E5%8F%B0%E7%81%A3%E5%B0%B1%E6%A5%AD%E9%80%9A%E8%81%B7%E7%BC%BA%E6%B8%85%E5%96%AE%E4%B8%A6%E5%91%88%E7%8F%BE%E8%81%B7%E7%BC%BA%E7%86%B1%E9%BB%9E%E5%9C%96-37e24b1a96f)
+
+
+專題連結區
  ==========
